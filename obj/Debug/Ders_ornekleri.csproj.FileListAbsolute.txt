@@ -1,0 +1,9 @@
+c:\users\ali\documents\visual studio 2012\Projects\Ders_ornekleri\Ders_ornekleri\bin\Debug\Ders_ornekleri.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\Ders_ornekleri\Ders_ornekleri\bin\Debug\Ders_ornekleri.exe
+c:\users\ali\documents\visual studio 2012\Projects\Ders_ornekleri\Ders_ornekleri\bin\Debug\Ders_ornekleri.pdb
+c:\users\ali\documents\visual studio 2012\Projects\Ders_ornekleri\Ders_ornekleri\obj\Debug\Ders_ornekleri.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2012\Projects\Ders_ornekleri\Ders_ornekleri\obj\Debug\Ders_ornekleri.Form1.resources
+c:\users\ali\documents\visual studio 2012\Projects\Ders_ornekleri\Ders_ornekleri\obj\Debug\Ders_ornekleri.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2012\Projects\Ders_ornekleri\Ders_ornekleri\obj\Debug\Ders_ornekleri.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2012\Projects\Ders_ornekleri\Ders_ornekleri\obj\Debug\Ders_ornekleri.exe
+c:\users\ali\documents\visual studio 2012\Projects\Ders_ornekleri\Ders_ornekleri\obj\Debug\Ders_ornekleri.pdb
